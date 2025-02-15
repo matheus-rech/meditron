@@ -15,7 +15,7 @@
 		"mouse-helper": "^1.0.7",
 		"node-polyfill-webpack-plugin": "^2.0.1",
 		"path": "^0.12.7",
-		"puppeteer": "^20.7.4",
+		"puppeteer": "^24.2.1",
 		"puppeteer-extra": "^3.3.6",
 		"puppeteer-extra-plugin-adblocker": "^2.13.6",
 		"puppeteer-extra-plugin-recaptcha": "^3.6.8",
